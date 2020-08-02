@@ -335,3 +335,4 @@ use Illuminate\Http\Request;
         return $request->session()->all();//get('username');
 
 });
+    ///best Night
